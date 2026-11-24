@@ -1,0 +1,231 @@
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 4.05%
+RAM Usage: 80.49%
+Disk Usage: 71.06%
+Uptime: 3.73 hours
+
+TOP PROCESSES:
+{'pid': 70225, 'cpu': 7.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 69031, 'cpu': 5.7, 'ram': 1.2, 'name': 'python3'}
+{'pid': 69032, 'cpu': 5.6, 'ram': 1.2, 'name': 'python3'}
+{'pid': 18083, 'cpu': 3.4, 'ram': 4.8, 'name': 'code'}
+{'pid': 37102, 'cpu': 3.1, 'ram': 9.8, 'name': 'Isolated Web Co'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 80.49% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 2.28%
+RAM Usage: 80.56%
+Disk Usage: 71.06%
+Uptime: 3.73 hours
+
+TOP PROCESSES:
+{'pid': 70309, 'cpu': 6.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 69031, 'cpu': 5.1, 'ram': 1.2, 'name': 'python3'}
+{'pid': 69032, 'cpu': 5.0, 'ram': 1.2, 'name': 'python3'}
+{'pid': 18083, 'cpu': 3.4, 'ram': 4.8, 'name': 'code'}
+{'pid': 37102, 'cpu': 3.1, 'ram': 9.8, 'name': 'Isolated Web Co'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 80.56% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 4.55%
+RAM Usage: 81.64%
+Disk Usage: 71.06%
+Uptime: 3.81 hours
+
+TOP PROCESSES:
+{'pid': 72325, 'cpu': 6.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 70902, 'cpu': 4.2, 'ram': 1.2, 'name': 'python3'}
+{'pid': 70903, 'cpu': 4.1, 'ram': 1.2, 'name': 'python3'}
+{'pid': 18083, 'cpu': 3.3, 'ram': 4.8, 'name': 'code'}
+{'pid': 37102, 'cpu': 3.2, 'ram': 10.0, 'name': 'Isolated Web Co'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 81.64% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 3.02%
+RAM Usage: 80.37%
+Disk Usage: 71.06%
+Uptime: 3.9 hours
+
+TOP PROCESSES:
+{'pid': 73690, 'cpu': 7.9, 'ram': 1.5, 'name': 'python3 /snap/m'}
+{'pid': 74461, 'cpu': 7.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 72842, 'cpu': 4.5, 'ram': 1.2, 'name': 'python3'}
+{'pid': 72843, 'cpu': 4.4, 'ram': 1.2, 'name': 'python3'}
+{'pid': 18083, 'cpu': 3.3, 'ram': 4.6, 'name': 'code'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 80.37% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 2.27%
+RAM Usage: 79.8%
+Disk Usage: 71.06%
+Uptime: 3.98 hours
+
+TOP PROCESSES:
+{'pid': 76445, 'cpu': 6.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 18083, 'cpu': 3.2, 'ram': 4.6, 'name': 'code'}
+{'pid': 37102, 'cpu': 3.2, 'ram': 9.8, 'name': 'Isolated Web Co'}
+{'pid': 74903, 'cpu': 3.2, 'ram': 1.2, 'name': 'python3'}
+{'pid': 74904, 'cpu': 3.2, 'ram': 1.2, 'name': 'python3'}
+
+SYSTEM STATUS: HEALTHY
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 4.04%
+RAM Usage: 79.48%
+Disk Usage: 71.06%
+Uptime: 4.06 hours
+
+TOP PROCESSES:
+{'pid': 78323, 'cpu': 6.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 37102, 'cpu': 3.3, 'ram': 9.4, 'name': 'Isolated Web Co'}
+{'pid': 18083, 'cpu': 3.1, 'ram': 4.7, 'name': 'code'}
+{'pid': 76752, 'cpu': 2.9, 'ram': 1.2, 'name': 'python3'}
+{'pid': 76753, 'cpu': 2.9, 'ram': 1.2, 'name': 'python3'}
+
+SYSTEM STATUS: HEALTHY
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 3.56%
+RAM Usage: 79.84%
+Disk Usage: 71.06%
+Uptime: 4.15 hours
+
+TOP PROCESSES:
+{'pid': 37102, 'cpu': 3.3, 'ram': 9.4, 'name': 'Isolated Web Co'}
+{'pid': 18083, 'cpu': 3.0, 'ram': 4.7, 'name': 'code'}
+{'pid': 80221, 'cpu': 3.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 78543, 'cpu': 2.7, 'ram': 1.2, 'name': 'python3'}
+{'pid': 78544, 'cpu': 2.6, 'ram': 1.2, 'name': 'python3'}
+
+SYSTEM STATUS: HEALTHY
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 3.56%
+RAM Usage: 80.5%
+Disk Usage: 71.06%
+Uptime: 4.23 hours
+
+TOP PROCESSES:
+{'pid': 82302, 'cpu': 6.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 82187, 'cpu': 4.6, 'ram': 0.7, 'name': 'gjs'}
+{'pid': 37102, 'cpu': 3.3, 'ram': 9.5, 'name': 'Isolated Web Co'}
+{'pid': 18083, 'cpu': 2.9, 'ram': 4.7, 'name': 'code'}
+{'pid': 80341, 'cpu': 2.5, 'ram': 1.2, 'name': 'python3'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 80.5% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 15.28%
+RAM Usage: 81.31%
+Disk Usage: 71.06%
+Uptime: 4.31 hours
+
+TOP PROCESSES:
+{'pid': 84358, 'cpu': 50.0, 'ram': 1.2, 'name': 'python3'}
+{'pid': 84359, 'cpu': 49.6, 'ram': 1.2, 'name': 'python3'}
+{'pid': 84999, 'cpu': 7.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 37102, 'cpu': 3.3, 'ram': 9.7, 'name': 'Isolated Web Co'}
+{'pid': 18083, 'cpu': 2.9, 'ram': 4.7, 'name': 'code'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 81.31% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 23.39%
+RAM Usage: 88.93%
+Disk Usage: 71.01%
+Uptime: 4.4 hours
+
+TOP PROCESSES:
+{'pid': 86552, 'cpu': 42.0, 'ram': 1.1, 'name': 'python3'}
+{'pid': 86553, 'cpu': 40.2, 'ram': 1.1, 'name': 'python3'}
+{'pid': 87232, 'cpu': 12.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 37102, 'cpu': 3.3, 'ram': 8.6, 'name': 'Isolated Web Co'}
+{'pid': 18083, 'cpu': 2.8, 'ram': 3.8, 'name': 'code'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 88.93% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 16.93%
+RAM Usage: 82.37%
+Disk Usage: 71.01%
+Uptime: 4.48 hours
+
+TOP PROCESSES:
+{'pid': 88955, 'cpu': 25.6, 'ram': 1.2, 'name': 'python3'}
+{'pid': 88956, 'cpu': 25.4, 'ram': 1.2, 'name': 'python3'}
+{'pid': 89665, 'cpu': 7.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 87800, 'cpu': 5.7, 'ram': 2.9, 'name': 'Isolated Web Co'}
+{'pid': 36433, 'cpu': 3.5, 'ram': 6.9, 'name': 'firefox'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 82.37% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 9.9%
+RAM Usage: 86.88%
+Disk Usage: 71.01%
+Uptime: 4.56 hours
+
+TOP PROCESSES:
+{'pid': 91105, 'cpu': 12.9, 'ram': 1.2, 'name': 'python3'}
+{'pid': 91106, 'cpu': 12.6, 'ram': 1.2, 'name': 'python3'}
+{'pid': 88862, 'cpu': 8.3, 'ram': 7.8, 'name': 'Isolated Web Co'}
+{'pid': 91912, 'cpu': 8.0, 'ram': 0.1, 'name': 'python3'}
+{'pid': 36433, 'cpu': 3.7, 'ram': 7.1, 'name': 'firefox'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 86.88% (Threshold: 80%)
+
+Report saved to: reports/report.json
+
+===== LINUX HOST HEALTH CHECKER =====
+CPU Usage: 5.6%
+RAM Usage: 90.67%
+Disk Usage: 71.01%
+Uptime: 4.65 hours
+
+TOP PROCESSES:
+{'pid': 88862, 'cpu': 20.7, 'ram': 12.5, 'name': 'Isolated Web Co'}
+{'pid': 93052, 'cpu': 17.9, 'ram': 1.2, 'name': 'python3'}
+{'pid': 93053, 'cpu': 17.6, 'ram': 1.2, 'name': 'python3'}
+{'pid': 36433, 'cpu': 4.2, 'ram': 5.7, 'name': 'firefox'}
+{'pid': 93993, 'cpu': 3.5, 'ram': 0.1, 'name': 'python3'}
+
+SYSTEM ALERTS:
+WARNING: RAM usage is 90.67% (Threshold: 80%)
+
+Report saved to: reports/report.json

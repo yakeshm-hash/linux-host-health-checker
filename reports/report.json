@@ -1,0 +1,55 @@
+{
+    "timestamp": "2026-11-24T16:05:02",
+    "cpu_percent": 5.6,
+    "ram": {
+        "total_mb": 7720.95,
+        "used_mb": 7000.36,
+        "available_mb": 720.59,
+        "percent": 90.67
+    },
+    "disk": {
+        "total_gb": 233.18,
+        "used_gb": 165.57,
+        "free_gb": 55.7,
+        "percent": 71.01
+    },
+    "uptime": {
+        "seconds": 16729.04,
+        "hours": 4.65
+    },
+    "top_processes": [
+        {
+            "pid": 88862,
+            "cpu": 20.7,
+            "ram": 12.5,
+            "name": "Isolated Web Co"
+        },
+        {
+            "pid": 93052,
+            "cpu": 17.9,
+            "ram": 1.2,
+            "name": "python3"
+        },
+        {
+            "pid": 93053,
+            "cpu": 17.6,
+            "ram": 1.2,
+            "name": "python3"
+        },
+        {
+            "pid": 36433,
+            "cpu": 4.2,
+            "ram": 5.7,
+            "name": "firefox"
+        },
+        {
+            "pid": 93993,
+            "cpu": 3.5,
+            "ram": 0.1,
+            "name": "python3"
+        }
+    ],
+    "alerts": [
+        "WARNING: RAM usage is 90.67% (Threshold: 80%)"
+    ]
+}

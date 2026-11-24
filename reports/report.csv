@@ -1,0 +1,2 @@
+timestamp,cpu_percent,ram_percent,ram_used_mb,disk_percent,disk_used_gb,uptime_hours,top_processes
+2026-11-24T13:07:59,3.04,79.28,6121.23,71.08,165.75,1.7,"[{""pid"": 18083, ""cpu"": 11.0, ""ram"": 5.8, ""name"": ""code""}, {""pid"": 43655, ""cpu"": 10.9, ""ram"": 1.5, ""name"": ""python3 /snap/m""}, {""pid"": 37102, ""cpu"": 10.8, ""ram"": 10.2, ""name"": ""Isolated Web Co""}, {""pid"": 36433, ""cpu"": 9.8, ""ram"": 6.9, ""name"": ""firefox""}, {""pid"": 44304, ""cpu"": 7.0, ""ram"": 0.1, ""name"": ""python3""}]"
